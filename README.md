@@ -225,8 +225,7 @@ Expected: β₁ > 0, p < 0.05
 │   └── results/              # Statistical test outputs
 │
 ├── requirements.txt          # Python dependencies
-├── README.md                 # This file
-└── LICENSE                   # MIT License
+└── README.md                 # This file
 ```
 
 ---
