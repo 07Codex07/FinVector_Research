@@ -4,8 +4,6 @@ __pycache__/
 *.pyc
 
 # Data & outputs
-data/
-outputs/
 *.csv
 *.npy
 

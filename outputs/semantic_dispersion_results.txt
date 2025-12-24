@@ -1,0 +1,28 @@
+Pearson r: -0.0188 (p=0.8586)
+Spearman rho: 0.0218 (p=0.8369)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        next_volatility   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                 -0.021
+Method:                 Least Squares   F-statistic:                   0.05540
+Date:                Thu, 25 Dec 2025   Prob (F-statistic):              0.946
+Time:                        03:22:44   Log-Likelihood:                 519.58
+No. Observations:                  92   AIC:                            -1033.
+Df Residuals:                      89   BIC:                            -1026.
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   0.0011      0.000      2.344      0.021       0.000       0.002
+semantic_dispersion    -0.0003      0.003     -0.088      0.930      -0.006       0.006
+news_count          -1.823e-05   6.48e-05     -0.281      0.779      -0.000       0.000
+==============================================================================
+Omnibus:                       73.720   Durbin-Watson:                   1.895
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              518.818
+Skew:                           2.521   Prob(JB):                    2.19e-113
+Kurtosis:                      13.484   Cond. No.                         149.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
