@@ -224,9 +224,6 @@ Expected: β₁ > 0, p < 0.05
 │   ├── clustering/           # Silhouette, elbow plots
 │   └── results/              # Statistical test outputs
 │
-├── notebooks/
-│   └── analysis.ipynb        # Interactive exploration
-│
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
 └── LICENSE                   # MIT License
