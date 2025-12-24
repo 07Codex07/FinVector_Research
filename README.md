@@ -468,13 +468,8 @@ This is an active research project. Contributions, suggestions, and collaboratio
 - Visualization improvements
 - Real-time deployment frameworks
 
-**Contact**: [Your Email/GitHub]
+**Contact**: vinayak1672006@gmail.com
 
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
