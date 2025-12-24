@@ -1,0 +1,13 @@
+# Environments
+venv/
+__pycache__/
+*.pyc
+
+# Data & outputs
+data/
+outputs/
+*.csv
+*.npy
+
+# IDE
+.vscode/
